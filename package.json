@@ -1,5 +1,7 @@
 {
   "name": "AnswersAndQuestions",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "coffeescript": "^1.12.6"
+  }
 }
